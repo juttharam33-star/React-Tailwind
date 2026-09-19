@@ -88,9 +88,6 @@ function Home() {
                 bg-white/10
               "
             >
-              <span>
-                
-              </span>
             </div>
           </Link>
 
