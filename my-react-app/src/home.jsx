@@ -88,11 +88,7 @@ function Home() {
                 bg-white/10
               "
             >
-              <span className="text-4xl" style={{ color: "#70020f", fontWeight: "bold" }}>
-                
-              </span>
-            </div>
-
+ 
           </Link>
 
 
