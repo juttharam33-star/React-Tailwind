@@ -20,7 +20,7 @@ const images = {
     "https://i.pinimg.com/1200x/83/29/da/8329dac4d41bdc84d72609aa8b1a5a47.jpg",
 };
 
-const Home = () => {
+function Home() {
   return (
     <main className="min-h-screen overflow-hidden bg-[#100607] text-white">
 
@@ -89,7 +89,7 @@ const Home = () => {
               "
             >
               <span className="text-4xl" style={{ color: "#70020f", fontWeight: "bold" }}>
-                ITACHI 
+                
               </span>
             </div>
 
