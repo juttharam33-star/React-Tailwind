@@ -49,10 +49,10 @@ function Home() {
             </Link>
 
             <Link
-              to="/article"
+              to="/art"
               className="text-xs md:text-sm font-medium hover:text-black transition"
             >
-              Article
+              Art
             </Link>
 
           </nav>

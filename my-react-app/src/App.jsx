@@ -1,7 +1,7 @@
 import React from "react";
 import Home from "./home.jsx";
 import About from "./About.jsx";
-import Article from "./Article.jsx";
+import Art from "./Art.jsx";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 
@@ -14,7 +14,7 @@ function App() {
         <Route path="/Home" element={<Home />} />
         {/* <Route path="/home" element={<Home />} /> */}
         <Route path="/about" element={<About />} />
-        <Route path="/article" element={<Article />} />
+        <Route path="/art" element={<Art />} />
       </Routes>
     </BrowserRouter>
   );
